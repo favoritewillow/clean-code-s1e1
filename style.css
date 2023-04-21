@@ -103,7 +103,7 @@ body {
   margin: 0 0 20px;
 }
 
-#container__input-new-task {
+.container__input_new-task {
   width: 318px;
 }
 
@@ -148,7 +148,7 @@ body {
 
 /* Completed */
 
-#container__completed-tasks label {
+.container__label-li_label {
   text-decoration: line-through;
   color: #888;
 }
